@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanCarlosQuirozPrada311278
-- 👀 I’m interested in programming language
+- 👀 I’m interested in programming language (python, Java, paginas web, java scrip)
 - 🌱 I’m currently learning how to create repositories on github
-- 💞️ I’m looking to collaborate on I am looking to collaborate in a project in which it is proposed to analyze, design and build a software application that allows to control the income and expenses of a manufacturing company and monitor them accordingly.
+- 💞️ I’m looking to collaborate on I am looking to collaborate in a project in which it is proposed to analyze, design and build a software application that allows to control the income and expenses of a manufacturing company.
 - 📫 How to reach me How to reach me, through my email Juanquiroz311278jcqp@gmail.com, linkedIn as Juan Carlos Quiroz
 
 <!---
